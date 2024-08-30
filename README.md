@@ -31,17 +31,12 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### 🖥️ IDEs & Editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
 - [**AngularVSExtension**](https://github.com/OsamaAbuSitta/AngularVSExtension) - A Visual Studio extension for seamless Angular navigation.
 - [**XTinyLog**](https://github.com/OsamaAbuSitta/XTinyLog) - A simple, thread-safe C# logging library.
 
-## 📊 GitHub Stats
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaAbuSitta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAbuSitta&layout=compact&theme=radical)
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/osama-abu-sitta-baa020135/)
