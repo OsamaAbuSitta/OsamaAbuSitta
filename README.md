@@ -1,11 +1,8 @@
-![Osama Abu Sitta Banner](https://link-to-your-banner-image.com)
-
 # Hi, I'm Osama Abu Sitta 👋
+![Profile Views](https://komarev.com/ghpvc/?username=OsamaAbuSitta)
+
+🚀 Solutions Architect | 💻 .NET | 🌍 Based in Amman, Jordan
 ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-🚀 Solutions Architect | 💻 .NET Enthusiast | 🌍 Based in Amman, Jordan
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=38B6FF&width=435&lines=Welcome+to+Osama's+GitHub!;Explore+my+projects+below!)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Toolbox
 
@@ -48,8 +45,6 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/osama-abu-sitta-baa020135/)
 - [Stack Overflow](https://stackoverflow.com/users/3926461/osama-abusitta)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OsamaAbuSitta.OsamaAbuSitta)
 
 
 <!--
