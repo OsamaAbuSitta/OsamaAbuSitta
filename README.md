@@ -1,7 +1,7 @@
 # Hi, I'm Osama Abu Sitta 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=OsamaAbuSitta)
 
-🚀 Solutions Architect | 💻 .NET | 🌍 Based in Amman, Jordan
+🚀 Solutions Architect | 💻 .NET
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=38B6FF&width=435&lines=Welcome+to+Osama's+GitHub!;Explore+my+projects+below!)](https://git.io/typing-svg)
 
